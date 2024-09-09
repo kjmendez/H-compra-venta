@@ -175,7 +175,7 @@ function registrarVenta(){
         comprobante : comprobante,
         total: total,
         descuento: (descuento == '') ? 0 : descuento,
-        usuario: 'Jose Mamani',
+        usuario: 'Jimy Cespedes',
         detalles: carrito
     }
 
